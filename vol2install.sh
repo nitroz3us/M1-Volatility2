@@ -16,5 +16,3 @@ git clone https://github.com/volatilityfoundation/volatility.git
 printf '\e[31m%s\e[0m\n%s\n' "Installing Volatility 2"
 cd volatility && sudo python2 setup.py install
 printf '\e[31m%s\e[0m\n%s\n' "Volatility 2 Installed"
-
-
