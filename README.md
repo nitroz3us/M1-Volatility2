@@ -10,6 +10,12 @@ Created a script that installs all the required dependencies needed for Volatili
 ## Note
 Remember to give executable rights on the script!
 
+## Host Operating System (OS)
+M1 Pro Mac OS (ARM)
+
+## Virtual Machine OS
+Kali Linux
+
 ```shell
 chmod +x vol2install.sh
 ```
